@@ -22,7 +22,7 @@
         "querystring-es3": "^0.2.1",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
-        "react-router-dom": "^6.11.1",
+        "react-router-dom": "^6.30.3",
         "stream-browserify": "^3.0.0",
         "tslib": "~2.5.0"
     },
